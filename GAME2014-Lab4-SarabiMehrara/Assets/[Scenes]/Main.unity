@@ -154,7 +154,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb2638f5be28db642855e6c141d79e1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletNumber: 0
+  enemyBulletNumber: 0
+  playerBulletNumber: 0
 --- !u!114 &40677914
 MonoBehaviour:
   m_ObjectHideFlags: 0
